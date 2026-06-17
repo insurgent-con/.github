@@ -1,5 +1,3 @@
-# Insurgent
-
 This org hosts all Insurgent repositories, which facilitate various interactions with the real-time strategy game Conflict of Nations (CON, Supremacy WW3).
 
 > [!CAUTION]
